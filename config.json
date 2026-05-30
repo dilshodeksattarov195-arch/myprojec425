@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricssalculate",
+        "uuid": 2045525,
+        "checksum": "silfkb7r"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
